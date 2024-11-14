@@ -24,8 +24,8 @@ public class Exercise10 {
         }
 
 
-        // Un método que devuelva una cadena de texto con el color de una pelota (en minúscula). Dicho color se escogerá de
-        // manera aleatoria. Se empleará el método randomWithRange(int min, int max) para escoger un número aleatorio, que
+        // Un metodo que devuelva una cadena de texto con el color de una pelota (en minúscula). Dicho color se escogerá de
+        // manera aleatoria. Se empleará el metodo randomWithRange(int min, int max) para escoger un número aleatorio, que
         // lo asociaremos al valor de un color de la siguiente manera:
         // 1 → rojo
         // 2 → azul
